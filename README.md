@@ -1,7 +1,6 @@
 # Hi, I'm Andra, Engineering Manager. 👋
 
-## :woman_technologist: About Me
-I am a tech professional & international development enthusiast with more than 10-year experience in software engineering and leadership roles.
+:woman_technologist: I am a tech professional & international development enthusiast with more than 10-year experience in software engineering and leadership roles.
 
 I started as an Engineering Manager in May 2021 and learned a lot through the great resources I found online. You can find a compilation of links and templates that supported me in my Engineering Management journey in [andrablaj/engineering-management-handbook](https://github.com/andrablaj/engineering-management-handbook).
 
