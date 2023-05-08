@@ -6,10 +6,10 @@ I started as an Engineering Manager in May 2021 and learned a lot through the gr
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-andrablaj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrablaj/)
 
+<!---
 ### :fire: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrablaj&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<!---
   <img src="https://github-readme-stats.vercel.app/api?username=andrablaj&show_icons=true&theme=ADD_THEME_HERE" width="400">
 -->
