@@ -2,7 +2,7 @@
 
 👩‍💻 Tech professional and international development enthusiast with more than 11 years of experience in software engineering and leadership roles, committed to using technology for positive social impact. I deeply believe that when you care, more people will care, too, and I apply that belief to everything I do. 
 
-I started as an Engineering Manager in May 2021 and learned a lot through the great resources I found online. You can find a compilation of links and templates that supported me in my Engineering Management journey in [andrablaj/engineering-management-handbook](https://github.com/andrablaj/engineering-management-handbook).
+I started as an Engineering Manager in May 2021 and learned a lot through the fantastic thoughtful resources I found online. You can find a compilation of links and templates that supported me in my Engineering Management journey in [andrablaj/engineering-management-handbook](https://github.com/andrablaj/engineering-management-handbook).
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-andrablaj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrablaj/)
 
