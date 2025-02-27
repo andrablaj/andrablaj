@@ -1,4 +1,4 @@
-# Hi, I'm Andra, Engineering Manager. 👋
+# Hi! 👋
 
 👩‍💻 Tech professional, international development enthusiast and language geek with more than 12 years of experience in software engineering and leadership roles, committed to using technology for positive social impact. I deeply believe that when you care, more people will care, too, and I apply that belief to everything I do. 
 
