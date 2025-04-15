@@ -1,8 +1,8 @@
 # Hi! 👋
 
-👩‍💻 Tech professional, international development enthusiast and language geek with more than 12 years of experience in software engineering and leadership roles, committed to using technology for positive social impact. I deeply believe that when you care, more people will care, too, and I apply that belief to everything I do. 
+I serve as Director of Open Technology for Medic, combining my passion for people management and my dedication to creating digital tools that are free, meaningful, and accessible to all. I collaborate with a vibrant, distributed community that shares a profound commitment: stewarding open-source technology that empowers health workers, bringing vital care to the world's most remote communities. I sincerely believe that when you care, more people will care, too, and I apply that belief to everything I do. 
 
-I started as an Engineering Manager in May 2021 and learned a lot through the fantastic thoughtful resources I found online. You can find a compilation of links and templates that supported me in my Engineering Management journey in [andrablaj/engineering-management-handbook](https://github.com/andrablaj/engineering-management-handbook).
+When I am not working with technology, you will find me studying languages – a pursuit that helps me better understand and connect with people from different cultures.
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-andrablaj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrablaj/)
 
