@@ -4,7 +4,7 @@ I serve as Director of Open Technology for Medic, combining my passion for peopl
 
 When I am not working with technology, you will find me studying languages – a pursuit that helps me better understand and connect with people from different cultures.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-andrablaj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrablaj/)
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-andrablaj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrablaj/)
 
 <!---
 ### :fire: My Stats
